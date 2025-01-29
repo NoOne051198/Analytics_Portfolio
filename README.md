@@ -5,7 +5,7 @@ In this repository, I collect the link of my all the projects and works.
 3. Vrinda annual sales report Deshboard
 4. Library management system
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Bhudeep pal
 **Data Analytics Enthusiast | Problem Solver | Data Storyteller**
 
 <img src="assets/myphoto.jpg" width="150" height="150" align="right">
