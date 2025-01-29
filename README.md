@@ -25,7 +25,7 @@ In this repository, I collect the link of my all the projects and works.
 ### 📊 Project 1: **[Project Name](GitHub_Project_Link)**
 **Key Skills:** `Python` `Pandas` `SQL` `Tableau`  
 📖 **Description:** Briefly describe what the project does and its impact.  
-![Project Image](assets/project1.png)
+![Project Image]([assets/project1.png](https://github.com/NoOne051198/Black-friday-sales-analysis.git))
 
 ---
 
