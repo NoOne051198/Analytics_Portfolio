@@ -8,7 +8,7 @@ In this repository, I collect the link of my all the projects and works.
 # 👋 Hi, I'm Bhudeep pal
 **Data Analytics Enthusiast | Problem Solver | Data Storyteller**
 
-<img src="assets/myphoto.jpg" width="150" height="150" align="right">
+<img src="Assets/My_photo.jpg" width="150" height="150" align="right">
 
 🌱 I am passionate about transforming raw data into actionable insights. I love working with SQL, Python, Tableau, and Power BI.
 
