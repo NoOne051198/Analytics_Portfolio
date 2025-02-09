@@ -1,9 +1,4 @@
-# Analytics Portfolio
-In this repository, I collect the link of my all the projects and works. 
-1. Black friday data analysis
-   [Black friday Data Analysis](https://github.com/NoOne051198/Black-friday-sales-analysis.git)
-3. Vrinda annual sales report Deshboard
-4. Library management system
+
 
 # 👋 Hi, I'm Bhudeep pal
 **Data Analytics Enthusiast | Problem Solver | Data Storyteller**
@@ -22,22 +17,22 @@ In this repository, I collect the link of my all the projects and works.
 
 ## 🚀 **Projects Showcase**
 
-### 📊 Project 1: **[Project Name](GitHub_Project_Link)**
-**Key Skills:** `Python` `Pandas` `SQL` `Tableau`  
+### 📊 Project 1: **[Black friday Sales Analysis]([GitHub_Project_Link](https://github.com/NoOne051198/Black-friday-sales-analysis.git))**
+**Key Skills:** `Python` `Pandas` `Numpy` `Matplotlib`  
 📖 **Description:** Briefly describe what the project does and its impact.  
 ![Project Image]([assets/project1.png](https://github.com/NoOne051198/Black-friday-sales-analysis.git))
 
 ---
 
-### 📈 Project 2: **[Project Name](GitHub_Project_Link)**
-**Key Skills:** `Power BI` `Excel` `Data Wrangling`  
+### 📈 Project 2: **[Walmart Sales Pridiction ]([GitHub_Project_Link](https://github.com/NoOne051198/WalmartSalesPredion2))**
+**Key Skills:** `Machine Learning` `scikit-learn` `XGBoost`  
 📖 **Description:** Describe your role and what you achieved.  
 ![Project Image](assets/project2.png)
 
 ---
 
 ## 📫 **Connect with Me**  
-💼 [LinkedIn](Your_LinkedIn_Profile) | 🐦 [Twitter](Your_Twitter_Profile) | 📧 Email: your_email@example.com
+💼 [LinkedIn](www.linkedin.com/in/bhudeep-pal) | | 📧 Email: bhudeep555pal@gmail.com
 
 ---
 
