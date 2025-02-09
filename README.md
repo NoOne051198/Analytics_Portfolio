@@ -32,7 +32,7 @@
 ---
 
 ## 📫 **Connect with Me**  
-💼 [LinkedIn](www.linkedin.com/in/bhudeep-pal) | | 📧 Email: bhudeep555pal@gmail.com
+💼 [LinkedIn]([www.linkedin.com/in/bhudeep-pal](https://www.linkedin.com/in/bhudeep-pal/)) | | 📧 Email: bhudeep555pal@gmail.com
 
 ---
 
