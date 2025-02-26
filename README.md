@@ -19,7 +19,8 @@
 
 ### 📊 Project 1: **[Black friday Sales Analysis]([GitHub_Project_Link](https://github.com/NoOne051198/Black-friday-sales-analysis.git))**
 **Key Skills:** `Python` `Pandas` `Numpy` `Matplotlib`  
-📖 **Description:** Briefly describe what the project does and its impact.  
+📖 **Description:** Briefly describe what the project does and its impact. 
+
 ![Project Image]([assets/project1.png](https://github.com/NoOne051198/Black-friday-sales-analysis.git))
 
 ---
@@ -31,10 +32,17 @@
 
 ---
 
-### 📈 Project 3: **[Vrinda Store Sales Report ]([GitHub_Project_Link](https://github.com/NoOne051198/WalmartSalesPredion2))**
+### 📈 Project 3: **[Vrinda Store Sales Report ](https://github.com/NoOne051198/vrinda-store-report)**
 **Key Skills:** `Data Analysis`, `Advanced Excel` `Formulae` `Data Cleaning`, `Data Processing`,`Pivot Table and Pivot charts`, `Data-driven Insights`.   
-📖 **Description:** As a Data Analyst, Our aim was to find the insights to increase the revenue in upcomming Year.  
-![Dashboard photo](assets/project2.png)
+📖 **Description:** As a Data Analyst, Our aim was to find the insights to increase the revenue in upcomming Year.   
+- **Deliverable insights:**
+ 1. Women contributed ~65% of total purchases.
+ 2. Maharashtra, Karnataka, and Uttar Pradesh accounted for ~35% of total sales.
+ 3. Adults (30-49 years) made up ~50% of the total orders.
+ 4. Amazon, Flipkart, and Myntra collectively contributed ~80% of total sales.
+
+
+![Dashboard photo](dashboardpng.png)
 
 ---
 ## 📫 **Connect with Me**  
