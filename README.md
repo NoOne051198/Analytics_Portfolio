@@ -31,6 +31,12 @@
 
 ---
 
+### 📈 Project 3: **[Vrinda Store Sales Report ]([GitHub_Project_Link](https://github.com/NoOne051198/WalmartSalesPredion2))**
+**Key Skills:** `Data Analysis`, `Advanced Excel` `Formulae` `Data Cleaning`, `Data Processing`,`Pivot Table and Pivot charts`, `Data-driven Insights`.   
+📖 **Description:** As a Data Analyst, Our aim was to find the insights to increase the revenue in upcomming Year.  
+![Dashboard photo](assets/project2.png)
+
+---
 ## 📫 **Connect with Me**  
 💼 [LinkedIn](https://www.linkedin.com/in/bhudeep-pal/) | | 📧 Email: bhudeep555pal@gmail.com
 
