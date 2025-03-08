@@ -1,17 +1,25 @@
 
 
-# 👋 Hi, I'm Bhudeep pal
-**Data Analytics Enthusiast | Problem Solver | Data Storyteller**
+# 👋 Hello, I'm Bhudeep pal
+**Data Analytics | SQL | Power BI | Python | Business Intelligence | Data Storyteller**
 
 <img src="Assets/My_photo.jpg" width="150" height="150" align="right">
 
-🌱 I am passionate about transforming raw data into actionable insights. I love working with SQL, Python, Tableau, and Power BI.
+👋 **About Me**
 
-🔍 **Key Skills:**  
-✔️ Data Cleaning & Processing (Python, Pandas, SQL)  
-✔️ Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)  
-✔️ Business Analytics & Decision Making  
-✔️ Machine Learning (Optional)  
+I am a data-driven problem solver with expertise in SQL, Python, Power BI, and Advanced Excel, passionate about transforming raw data into actionable insights. My experience includes:<br>  
+✅ Developing interactive dashboards that improve decision-making efficiency.<br>
+✅ Automating data pipelines for scalable and error-free reporting.<br>
+✅ Applying statistical analysis to optimize business strategies.<br>
+✅ Leveraging machine learning models for predictive analytics.<br>
+
+
+🔧 **Technical Skills**  
+**Languages:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Databases:** MySQL, MongoDB, Snowflake  
+**BI Tools:** Power BI, Tableau  
+**Excel:** Pivot Tables, Power Query, DAX  
+**Other:** ETL, Data Wrangling, Business Intelligence  
 
 ---
 
