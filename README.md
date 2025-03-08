@@ -5,7 +5,7 @@
 
 <img src="Assets/My_photo.jpg" width="150" height="150" align="right">
 
-👋 **About Me**
+ **About Me**
 
 I am a data-driven problem solver with expertise in SQL, Python, Power BI, and Advanced Excel, passionate about transforming raw data into actionable insights. My experience includes:<br>  
 ✅ Developing interactive dashboards that improve decision-making efficiency.<br>
@@ -25,18 +25,43 @@ I am a data-driven problem solver with expertise in SQL, Python, Power BI, and A
 
 ## 🚀 **Projects Showcase**
 
-### 📊 Project 1: **[Black friday Sales Analysis]([GitHub_Project_Link](https://github.com/NoOne051198/Black-friday-sales-analysis.git))**
-**Key Skills:** `Python` `Pandas` `Numpy` `Matplotlib`  
-📖 **Description:** Briefly describe what the project does and its impact. 
+### 📊 Project 1: **[Black Friday Sales Analysis](https://github.com/NoOne051198/Black-friday-sales-analysis.git)**
+**Key Skills:** `Python` `Pandas` `Numpy` `Matplotlib`  `Data Analysis` `Data Cleaning`  
+📖 **Description:** 
+- Leveraged Python for comprehensive analysis of consumer purchasing behaviors in sales events; insights generated led to a refined approach in targeting campaigns, improving engagement metrics by over 20% within 3 months..
+-	Generated over 15 detailed graphical representations illustrating customer spending habits via Matplotlib library; each graphic played a pivotal role in shaping effective market outreach programs tailored to target demographics.
+  
+- **Deliverable insights:**
+ 1. Our mostly customers lie in the 26 to 35 age group. 
+ 2. Our most customers lie in Category B, and they stay in the city for one year approx. 
+ 3. Unmarried purchase more than married.
+ 4. Product of category 5 is most famous product category.
+ 5. Purchase price data is right skewed distribution. 
 
-![Project Image]([assets/project1.png](https://github.com/NoOne051198/Black-friday-sales-analysis.git))
+![Black Friday](Assets/Blackfriday_pro.jpg))
 
 ---
 
-### 📈 Project 2: **[Walmart Sales Pridiction ]([GitHub_Project_Link](https://github.com/NoOne051198/WalmartSalesPredion2))**
-**Key Skills:** `Machine Learning` `scikit-learn` `XGBoost`  
-📖 **Description:** Describe your role and what you achieved.  
-![Project Image](assets/project2.png)
+### 📈 Project 2: **[Walmart Sales Prediction](https://github.com/NoOne051198/WalmartSalesPredion2)**
+**Key Skills:** `Machine Learning` `scikit-learn` `XGBoost` `Exploratory data Analysis` `Data Preprocessing` `Random forest`  
+📖 **Description:** 
+- Perform Exploratory data Analysis.
+-	Data Preprocession
+   `Imputting/Removing missing values`
+  `Delete Duplicate records`
+  `Check the Outliers`
+- Preparing Data for Training
+  `Split the Dataset into training and validation dataset`
+  `Scaling the numberical features`
+  `Encode the Categorical features`
+- Model fitting and validation
+  `Ramdom forest regressor`
+  `Mean squared error`
+  `Gradient Boosting Machine`
+  `K fold cross validation`
+- Hyperparameter tuning and Regularization
+  `n_estimators` `max_depth` `max_leaf_node` `max_features` `min_sample_leaf` `min_sample_split` `bootstrap`  
+![Project Image](Assets/walmart_pro.jpg)
 
 ---
 
@@ -51,6 +76,16 @@ I am a data-driven problem solver with expertise in SQL, Python, Power BI, and A
 
 
 ![Dashboard photo](dashboardpng.png)
+
+---
+
+### 📈 Project 4: **[Hospital Emergency Room Dashboard](https://github.com/NoOne051198/vrinda-store-report)**
+**Key Skills:**  `Advanced Excel` `Data visualization` `Data Modeling` `Power Query`  `Data Cleaning` `Data Processing` `Pivot Table and Pivot charts`  
+📖 **Description:** As a Data Analyst, Our aim was to track the data according to months with KPIs. To track the records    
+
+
+
+![Hospital Dashboard photo](Assets/pic_hospital.jpg)
 
 ---
 ## 📫 **Connect with Me**  
